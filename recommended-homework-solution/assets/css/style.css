@@ -238,6 +238,9 @@ input[type=submit] {
     height: 50px;
     line-height: 50px;
       }
+      .auth-image{
+        width: 400px;
+      }
   
   nav{
     text-align: center;
